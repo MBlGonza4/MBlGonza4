@@ -1,0 +1,19 @@
+{
+  "creeper": {
+    "explosionFatigueMaxDuration": 120,
+    "explosionWeaknessMaxDuration": 120,
+    "chainExplosions": true
+  },
+  "slime": {
+    "biggerSize": true,
+    "canMerge": true
+  },
+  "vex": {
+    "dieWithEvoker": true,
+    "naturalSpawnDarkForest": true
+  },
+  "guardian": {
+    "naturalSpawn": true,
+    "silentKill": true
+  }
+}

@@ -1,0 +1,162 @@
+[perspective]
+	default_perspective = "THIRD_PERSON_FRONT"
+[camera]
+	#Size of the camera adjustment per step.
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	camera_step_size = 0.025
+	#Whether or not to orient the camera rotation when the player is teleported. This includes passenger (dis-)mounting and traveling through portals.
+	orient_camera_on_teleport = true
+	#The speed multiplier at which the camera transitions between positions.
+	#Range: 0.05 ~ 1.0
+	camera_transition_speed_multiplier = 0.25
+	#Whether or not to decouple the camera rotation from the player rotation.
+	decoupled_camera = true
+	#The distance multiplier on whether or not to hide the player model if the camera gets too close to it. Set to 0 to disable.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	keep_camera_out_of_head_distance_multiplier = 0.75
+	#The angle at which the camera will be centered when looking down. Set to 0 to disable.
+	#Range: 0.0 ~ 90.0
+	center_camera_when_looking_down_angle = 1.0
+	#Whether or not to dynamically adjust camera offsets depending on space constraints.
+	dynamically_adjust_offsets = true
+
+	[camera.offset]
+		#Third person camera x-offset.
+		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+		offset_x = -0.75
+		#Third person camera y-offset.
+		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+		offset_y = 0.0
+		#Third person camera z-offset.
+		#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+		offset_z = 4.0
+
+		[camera.offset.min]
+			#When x-offset is limited this is the minimum amount.
+			#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+			min_offset_x = -3.0
+			#When z-offset is limited this is the minimum amount.
+			#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+			min_offset_z = -3.0
+			#When y-offset is limited this is the minimum amount.
+			#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+			min_offset_y = -1.0
+		[camera.offset.max]
+			#When z-offset is limited this is the maximum amount.
+			#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+			max_offset_z = 5.0
+			#When y-offset is limited this is the maximum amount.
+			#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+			max_offset_y = 1.5
+			#When x-offset is limited this is the maximum amount.
+			#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+			max_offset_x = 3.0
+		[camera.offset.multiplier]
+			[camera.offset.multiplier.passenger]
+				#y-offset multiplier for when the player is a passenger.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_y = 1.0
+				#x-offset multiplier for when the player is a passenger.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_x = 1.0
+				#z-offset multiplier for when the player is a passenger.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_z = 1.0
+			[camera.offset.multiplier.sprint]
+				#y-offset multiplier for when the player is sprinting.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_y = 1.0
+				#x-offset multiplier for when the player is sprinting.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_x = 1.0
+				#z-offset multiplier for when the player is sprinting.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_z = 1.0
+			[camera.offset.multiplier.fall_flying]
+				#y-offset multiplier for when using Elytra.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_y = 1.0
+				#x-offset multiplier for when using Elytra.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_x = 1.0
+				#z-offset multiplier for when using Elytra.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_z = 1.0
+			[camera.offset.multiplier.aiming]
+				#y-offset multiplier for when the player is aiming.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_y = 1.0
+				#x-offset multiplier for when the player is aiming.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_x = 1.0
+				#z-offset multiplier for when the player is aiming.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_z = 1.0
+			[camera.offset.multiplier.climbing]
+				#y-offset multiplier for when the player is climbing.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_y = 1.0
+				#x-offset multiplier for when the player is climbing.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_x = 0.0
+				#z-offset multiplier for when the player is climbing.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				multiplier_offset_z = 1.0
+		[camera.offset.modifiers]
+			[camera.offset.modifiers.passenger]
+				#z-offset modifier for when the player is a passenger.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_z = 0.0
+				#x-offset modifier for when the player is a passenger.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_x = 0.0
+				#y-offset modifier for when the player is a passenger.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_y = 0.0
+			[camera.offset.modifiers.sprint]
+				#z-offset modifier for when the player is sprinting.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_z = 0.0
+				#x-offset modifier for when the player is sprinting.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_x = 0.0
+				#y-offset modifier for when the player is sprinting.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_y = 0.0
+			[camera.offset.modifiers.fall_flying]
+				#z-offset modifier for when using Elytra.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_z = 0.0
+				#x-offset modifier for when using Elytra.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_x = 0.0
+				#y-offset modifier for when using Elytra.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_y = 0.0
+			[camera.offset.modifiers.aiming]
+				#z-offset modifier for when the player is aiming.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_z = 0.0
+				#x-offset modifier for when the player is aiming.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_x = 0.0
+				#y-offset modifier for when the player is aiming.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_y = 0.0
+			[camera.offset.modifiers.climbing]
+				#z-offset modifier for when the player is climbing.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_z = 0.0
+				#x-offset modifier for when the player is climbing.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_x = 0.0
+				#y-offset modifier for when the player is climbing.
+				#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+				modifier_offset_y = 0.0
+		[camera.offset.limits]
+			#Whether or not z-offset adjustment has limits.
+			unlimited_offset_z = false
+			#Whether or not y-offset adjustment has limits.
+			unlimited_offset_y = false
+			#Whether or not x-offset adjustment has limits.
+			unlimited_offset_x = false
