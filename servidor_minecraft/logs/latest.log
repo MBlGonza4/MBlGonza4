@@ -2278,3 +2278,1379 @@
 [00:23:23] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 8.0;  Old Health: 4.0; Default HP: 20.0
 [00:23:24] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.16;  Old Health: 1.0; Default HP: 20.0
 [00:23:25] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 65.42;  Old Health: 40.0; Default HP: 40.0
+[00:23:29] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:23:29] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 26.71;  Old Health: 20.0; Default HP: 20.0
+[00:23:29] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 20.0
+[00:23:31] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.9;  Old Health: 16.0; Default HP: 20.0
+[00:23:32] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 20.0
+[00:23:32] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:23:33] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:23:33] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 20.87;  Old Health: 16.0; Default HP: 20.0
+[00:23:33] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:23:34] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:23:34] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 23.79;  Old Health: 16.0; Default HP: 20.0
+[00:23:37] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 8.0;  Old Health: 4.0; Default HP: 20.0
+[00:23:39] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 69.32;  Old Health: 40.0; Default HP: 40.0
+[00:23:39] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 24.07;  Old Health: 16.0; Default HP: 20.0
+[00:23:39] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:23:40] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 20.0
+[00:23:40] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 1.36;  Old Health: 1.0; Default HP: 20.0
+[00:23:40] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 8.0;  Old Health: 4.0; Default HP: 20.0
+[00:23:41] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 20.0
+[00:23:41] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 51.68;  Old Health: 40.0; Default HP: 40.0
+[00:23:42] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 50.56;  Old Health: 40.0; Default HP: 40.0
+[00:23:42] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 97.31;  Old Health: 40.0; Default HP: 40.0
+[00:23:42] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 60.53;  Old Health: 40.0; Default HP: 40.0
+[00:23:47] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 6.57;  Old Health: 4.0; Default HP: 20.0
+[00:23:47] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:23:48] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:23:48] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:23:48] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:23:49] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:23:51] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 93.8;  Old Health: 44.0; Default HP: 40.0
+[00:23:51] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:23:52] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:23:53] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:23:53] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:23:59] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:23:59] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:03] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:03] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:04] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:05] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:07] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:24:13] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:14] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:24:17] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:19] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 56.45;  Old Health: 40.0; Default HP: 40.0
+[00:24:19] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 29.61;  Old Health: 20.0; Default HP: 20.0
+[00:24:19] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:21] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 75.8;  Old Health: 40.0; Default HP: 40.0
+[00:24:21] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 1.95;  Old Health: 1.0; Default HP: 20.0
+[00:24:23] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:24] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 109.13;  Old Health: 40.0; Default HP: 40.0
+[00:24:24] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.44;  Old Health: 40.0; Default HP: 40.0
+[00:24:25] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:24:26] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 20.0
+[00:24:26] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 102.27;  Old Health: 40.0; Default HP: 40.0
+[00:24:29] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:29] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:24:29] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:24:31] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:24:31] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 41.24;  Old Health: 16.0; Default HP: 20.0
+[00:24:33] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:33] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 58.71;  Old Health: 40.0; Default HP: 40.0
+[00:24:35] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:36] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 91.16;  Old Health: 40.0; Default HP: 40.0
+[00:24:36] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:36] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 79.4;  Old Health: 40.0; Default HP: 40.0
+[00:24:37] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 72.56;  Old Health: 40.0; Default HP: 40.0
+[00:24:37] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 107.56;  Old Health: 40.0; Default HP: 40.0
+[00:24:38] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:38] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 73.34;  Old Health: 40.0; Default HP: 40.0
+[00:24:39] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 36.59;  Old Health: 20.0; Default HP: 20.0
+[00:24:39] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 77.1;  Old Health: 40.0; Default HP: 40.0
+[00:24:39] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 92.77;  Old Health: 40.0; Default HP: 40.0
+[00:24:41] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 99.52;  Old Health: 40.0; Default HP: 40.0
+[00:24:43] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 72.64;  Old Health: 40.0; Default HP: 40.0
+[00:24:45] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:45] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:47] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:47] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 88.16;  Old Health: 40.0; Default HP: 40.0
+[00:24:47] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:47] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:48] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 101.72;  Old Health: 40.0; Default HP: 40.0
+[00:24:48] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 107.16;  Old Health: 40.0; Default HP: 40.0
+[00:24:48] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:48] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:48] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 56.34;  Old Health: 40.0; Default HP: 40.0
+[00:24:49] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:24:49] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:49] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:50] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:51] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 81.87;  Old Health: 40.0; Default HP: 40.0
+[00:24:51] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 87.04;  Old Health: 40.0; Default HP: 40.0
+[00:24:51] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:51] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 109.97;  Old Health: 40.0; Default HP: 40.0
+[00:24:51] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:51] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 36.16;  Old Health: 20.0; Default HP: 20.0
+[00:24:51] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 48.34;  Old Health: 20.0; Default HP: 20.0
+[00:24:51] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 30.6;  Old Health: 20.0; Default HP: 20.0
+[00:24:51] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 51.22;  Old Health: 20.0; Default HP: 20.0
+[00:24:52] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:24:53] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:53] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:24:55] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:24:58] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 10.03;  Old Health: 4.0; Default HP: 20.0
+[00:24:58] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 20.0
+[00:25:02] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 82.19;  Old Health: 40.0; Default HP: 40.0
+[00:25:03] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:25:04] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:25:04] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 38.18;  Old Health: 20.0; Default HP: 20.0
+[00:25:06] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 31.49;  Old Health: 16.0; Default HP: 20.0
+[00:25:06] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:25:07] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:25:07] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 8.0;  Old Health: 4.0; Default HP: 20.0
+[00:25:07] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:25:07] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 1.7;  Old Health: 1.0; Default HP: 20.0
+[00:25:08] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 21.1;  Old Health: 16.0; Default HP: 20.0
+[00:25:08] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 7.43;  Old Health: 4.0; Default HP: 20.0
+[00:25:08] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 87.8;  Old Health: 40.0; Default HP: 40.0
+[00:25:08] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:25:09] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 69.25;  Old Health: 40.0; Default HP: 40.0
+[00:25:09] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 20.34;  Old Health: 16.0; Default HP: 20.0
+[00:25:10] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 23.3;  Old Health: 16.0; Default HP: 20.0
+[00:25:10] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 58.54;  Old Health: 40.0; Default HP: 40.0
+[00:25:10] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 20.0
+[00:25:10] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 26.84;  Old Health: 16.0; Default HP: 20.0
+[00:25:11] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:11] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 49.64;  Old Health: 20.0; Default HP: 20.0
+[00:25:11] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:11] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:25:12] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:25:13] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 20.0
+[00:25:14] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 91.81;  Old Health: 40.0; Default HP: 40.0
+[00:25:15] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 63.94;  Old Health: 40.0; Default HP: 40.0
+[00:25:15] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:25:15] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.46;  Old Health: 1.0; Default HP: 20.0
+[00:25:18] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 8.0;  Old Health: 4.0; Default HP: 20.0
+[00:25:19] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 50.09;  Old Health: 20.0; Default HP: 20.0
+[00:25:19] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 6.59;  Old Health: 4.0; Default HP: 20.0
+[00:25:19] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:25:20] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 20.0
+[00:25:21] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:25:21] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:25:23] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:25:23] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 8.0;  Old Health: 4.0; Default HP: 20.0
+[00:25:24] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:25:25] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:25:25] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:25:25] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:25:26] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 103.05;  Old Health: 40.0; Default HP: 40.0
+[00:25:26] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 21.63;  Old Health: 16.0; Default HP: 20.0
+[00:25:26] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.13;  Old Health: 1.0; Default HP: 20.0
+[00:25:26] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 8.0;  Old Health: 4.0; Default HP: 20.0
+[00:25:26] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:26] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 8.0;  Old Health: 4.0; Default HP: 20.0
+[00:25:26] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 8.0;  Old Health: 4.0; Default HP: 20.0
+[00:25:27] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 38.99;  Old Health: 20.0; Default HP: 20.0
+[00:25:27] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:27] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 38.48;  Old Health: 16.0; Default HP: 16.0
+[00:25:27] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:25:28] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:25:28] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:25:28] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 23.17;  Old Health: 16.0; Default HP: 16.0
+[00:25:28] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 44.56;  Old Health: 20.0; Default HP: 20.0
+[00:25:28] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:28] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 25.84;  Old Health: 20.0; Default HP: 20.0
+[00:25:28] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 46.62;  Old Health: 20.0; Default HP: 20.0
+[00:25:28] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:29] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:25:29] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:29] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:25:29] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 79.21;  Old Health: 40.0; Default HP: 40.0
+[00:25:30] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:25:30] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:25:30] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 22.24;  Old Health: 16.0; Default HP: 16.0
+[00:25:31] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 8.0;  Old Health: 4.0; Default HP: 20.0
+[00:25:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 48.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:32] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:32] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:32] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:32] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:25:32] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:25:33] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:33] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:25:33] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:25:34] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:25:34] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 20.0
+[00:25:36] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 27.12;  Old Health: 20.0; Default HP: 20.0
+[00:25:36] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:36] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:36] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:37] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:37] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 41.17;  Old Health: 20.0; Default HP: 20.0
+[00:25:37] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:37] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:37] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:37] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 33.03;  Old Health: 20.0; Default HP: 20.0
+[00:25:37] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 25.08;  Old Health: 20.0; Default HP: 20.0
+[00:25:42] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 36.73;  Old Health: 16.0; Default HP: 16.0
+[00:25:42] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 55.67;  Old Health: 20.0; Default HP: 20.0
+[00:25:42] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 49.8;  Old Health: 20.0; Default HP: 20.0
+[00:25:42] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 44.4;  Old Health: 20.0; Default HP: 20.0
+[00:25:44] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 88.0; Default HP: 40.0
+[00:25:44] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 1.68;  Old Health: 1.0; Default HP: 20.0
+[00:25:45] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:45] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:45] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:45] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:47] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:47] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:47] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:47] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:49] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:55] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:25:55] [Server thread/INFO]: [STDOUT]: minecraft:hoglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:25:55] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:25:57] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 69.26;  Old Health: 40.0; Default HP: 40.0
+[00:25:58] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:58] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 29.58;  Old Health: 20.0; Default HP: 20.0
+[00:25:58] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:25:58] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 25.22;  Old Health: 20.0; Default HP: 20.0
+[00:25:59] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:00] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:01] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:26:01] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:26:02] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 30.41;  Old Health: 16.0; Default HP: 20.0
+[00:26:02] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 8.0;  Old Health: 4.0; Default HP: 20.0
+[00:26:02] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:02] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:03] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:03] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:03] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 86.93;  Old Health: 40.0; Default HP: 40.0
+[00:26:03] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:03] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 26.39;  Old Health: 16.0; Default HP: 20.0
+[00:26:03] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 20.0
+[00:26:04] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:04] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 74.75;  Old Health: 40.0; Default HP: 40.0
+[00:26:04] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:26:05] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 39.12;  Old Health: 16.0; Default HP: 20.0
+[00:26:06] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 8.66;  Old Health: 4.0; Default HP: 20.0
+[00:26:06] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.59;  Old Health: 1.0; Default HP: 20.0
+[00:26:08] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 20.0
+[00:26:11] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:11] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:11] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:26:12] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 88.07;  Old Health: 40.0; Default HP: 40.0
+[00:26:14] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.43;  Old Health: 1.0; Default HP: 20.0
+[00:26:14] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 8.0;  Old Health: 4.0; Default HP: 20.0
+[00:26:16] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:26:16] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 30.73;  Old Health: 20.0; Default HP: 20.0
+[00:26:16] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 45.25;  Old Health: 20.0; Default HP: 20.0
+[00:26:17] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:18] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:18] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:21] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:22] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 91.09;  Old Health: 40.0; Default HP: 40.0
+[00:26:23] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 66.66;  Old Health: 40.0; Default HP: 40.0
+[00:26:23] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:23] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 59.29;  Old Health: 40.0; Default HP: 40.0
+[00:26:23] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:23] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 35.33;  Old Health: 20.0; Default HP: 20.0
+[00:26:23] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 39.21;  Old Health: 20.0; Default HP: 20.0
+[00:26:23] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:23] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 45.44;  Old Health: 20.0; Default HP: 20.0
+[00:26:23] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:25] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 107.37;  Old Health: 40.0; Default HP: 40.0
+[00:26:27] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 81.09;  Old Health: 40.0; Default HP: 40.0
+[00:26:27] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:28] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:28] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 84.78;  Old Health: 40.0; Default HP: 40.0
+[00:26:28] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:28] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:29] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:29] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:29] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:30] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 88.57;  Old Health: 40.0; Default HP: 40.0
+[00:26:30] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:30] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:26:30] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:30] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 42.25;  Old Health: 20.0; Default HP: 20.0
+[00:26:30] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 46.25;  Old Health: 20.0; Default HP: 20.0
+[00:26:31] [Server thread/INFO]: [STDOUT]: minecraft:chicken; HealthFactor: 2.0; DamageFactor: 2.0; Health: 8.54;  Old Health: 4.0; Default HP: 4.0
+[00:26:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:31] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:31] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:32] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:32] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:26:32] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 43.52;  Old Health: 16.0; Default HP: 16.0
+[00:26:32] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:26:32] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:32] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:33] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:33] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 90.75;  Old Health: 40.0; Default HP: 40.0
+[00:26:35] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:35] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 92.71;  Old Health: 40.0; Default HP: 40.0
+[00:26:35] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:35] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 49.78;  Old Health: 20.0; Default HP: 20.0
+[00:26:35] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:36] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 99.25;  Old Health: 40.0; Default HP: 40.0
+[00:26:36] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:26:36] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.68;  Old Health: 16.0; Default HP: 16.0
+[00:26:36] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:36] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 41.91;  Old Health: 20.0; Default HP: 20.0
+[00:26:37] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:37] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:37] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:38] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:38] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.04;  Old Health: 20.0; Default HP: 20.0
+[00:26:38] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:38] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:39] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:40] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:40] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 72.05;  Old Health: 40.0; Default HP: 40.0
+[00:26:40] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 93.33;  Old Health: 40.0; Default HP: 40.0
+[00:26:40] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:43] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:44] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:44] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 31.78;  Old Health: 20.0; Default HP: 20.0
+[00:26:45] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 41.96;  Old Health: 16.0; Default HP: 16.0
+[00:26:45] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:45] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:45] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 37.67;  Old Health: 20.0; Default HP: 20.0
+[00:26:46] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:46] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:46] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 50.24;  Old Health: 20.0; Default HP: 20.0
+[00:26:46] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:46] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:46] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 90.65;  Old Health: 40.0; Default HP: 40.0
+[00:26:47] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 28.96;  Old Health: 20.0; Default HP: 20.0
+[00:26:48] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 36.0; Default HP: 20.0
+[00:26:48] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 37.69;  Old Health: 20.0; Default HP: 20.0
+[00:26:49] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:49] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:49] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 53.48;  Old Health: 20.0; Default HP: 20.0
+[00:26:50] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:50] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:50] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 42.17;  Old Health: 20.0; Default HP: 20.0
+[00:26:50] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 49.4;  Old Health: 20.0; Default HP: 20.0
+[00:26:51] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 25.42;  Old Health: 20.0; Default HP: 20.0
+[00:26:51] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:51] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 55.23;  Old Health: 20.0; Default HP: 20.0
+[00:26:51] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 45.55;  Old Health: 20.0; Default HP: 20.0
+[00:26:52] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 39.16;  Old Health: 20.0; Default HP: 20.0
+[00:26:52] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:53] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:26:54] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 54.48;  Old Health: 20.0; Default HP: 20.0
+[00:26:54] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:54] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:54] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:54] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 43.58;  Old Health: 20.0; Default HP: 20.0
+[00:26:54] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:54] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:54] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:26:55] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:55] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 102.27;  Old Health: 40.0; Default HP: 40.0
+[00:26:57] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 41.12;  Old Health: 16.0; Default HP: 16.0
+[00:26:58] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:26:58] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:27:03] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:27:03] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 39.66;  Old Health: 20.0; Default HP: 20.0
+[00:27:03] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:05] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 63.45;  Old Health: 40.0; Default HP: 40.0
+[00:27:06] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 24.19;  Old Health: 16.0; Default HP: 16.0
+[00:27:06] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.21;  Old Health: 16.0; Default HP: 16.0
+[00:27:06] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:27:09] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:09] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 55.56;  Old Health: 44.0; Default HP: 40.0
+[00:27:10] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:10] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 92.83;  Old Health: 40.0; Default HP: 40.0
+[00:27:12] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 109.87;  Old Health: 40.0; Default HP: 40.0
+[00:27:12] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:27:12] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 82.25;  Old Health: 40.0; Default HP: 40.0
+[00:27:13] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 49.94;  Old Health: 40.0; Default HP: 40.0
+[00:27:14] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:15] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:27:15] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:15] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:15] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 79.84;  Old Health: 40.0; Default HP: 40.0
+[00:27:17] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:17] [Server thread/INFO]: [STDOUT]: minecraft:hoglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:27:17] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:27:18] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:19] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 37.84;  Old Health: 16.0; Default HP: 16.0
+[00:27:19] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:19] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 26.47;  Old Health: 20.0; Default HP: 20.0
+[00:27:19] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:19] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:20] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:20] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:20] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:20] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 39.55;  Old Health: 20.0; Default HP: 20.0
+[00:27:20] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:20] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:20] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 38.46;  Old Health: 20.0; Default HP: 20.0
+[00:27:20] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:20] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:27:22] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:22] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:22] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 37.93;  Old Health: 20.0; Default HP: 20.0
+[00:27:22] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:22] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 29.12;  Old Health: 16.0; Default HP: 16.0
+[00:27:22] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 36.98;  Old Health: 16.0; Default HP: 16.0
+[00:27:22] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 37.21;  Old Health: 20.0; Default HP: 20.0
+[00:27:23] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:27:23] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 81.57;  Old Health: 40.0; Default HP: 40.0
+[00:27:23] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:27:23] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 2.0; DamageFactor: 2.0; Health: 80.0;  Old Health: 40.0; Default HP: 40.0
+[00:27:24] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:27:24] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:24] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:27:25] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:25] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 26.44;  Old Health: 20.0; Default HP: 20.0
+[00:27:25] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:26] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 4.9; DamageFactor: 4.9; Health: 64.6;  Old Health: 20.0; Default HP: 20.0
+[00:27:26] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 4.9; DamageFactor: 4.9; Health: 78.4;  Old Health: 16.0; Default HP: 16.0
+[00:27:28] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 24.63;  Old Health: 6.0; Default HP: 6.0
+[00:27:28] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 41.79;  Old Health: 6.0; Default HP: 6.0
+[00:27:29] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:29] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:30] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 4.9; DamageFactor: 4.9; Health: 62.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:30] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 4.9; DamageFactor: 4.9; Health: 78.4;  Old Health: 16.0; Default HP: 16.0
+[00:27:31] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:31] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:31] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 31.99;  Old Health: 6.0; Default HP: 6.0
+[00:27:31] [Server thread/INFO]: micha_a was slain by Enderman
+[00:27:33] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:33] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 5.0; DamageFactor: 5.0; Health: 89.15;  Old Health: 20.0; Default HP: 20.0
+[00:27:33] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 5.0; DamageFactor: 5.0; Health: 117.19;  Old Health: 20.0; Default HP: 20.0
+[00:27:33] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 5.0; DamageFactor: 5.0; Health: 97.48;  Old Health: 20.0; Default HP: 20.0
+[00:27:33] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:33] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 20.7;  Old Health: 6.0; Default HP: 6.0
+[00:27:33] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 5.0; DamageFactor: 5.0; Health: 85.99;  Old Health: 20.0; Default HP: 20.0
+[00:27:33] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 5.0; DamageFactor: 5.0; Health: 104.57;  Old Health: 20.0; Default HP: 20.0
+[00:27:33] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 5.0; DamageFactor: 5.0; Health: 77.94;  Old Health: 20.0; Default HP: 20.0
+[00:27:33] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:34] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:35] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:35] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 4.9; DamageFactor: 4.9; Health: 59.91;  Old Health: 10.0; Default HP: 10.0
+[00:27:35] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 4.9; DamageFactor: 4.9; Health: 67.41;  Old Health: 10.0; Default HP: 10.0
+[00:27:35] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 4.9; DamageFactor: 4.9; Health: 43.17;  Old Health: 10.0; Default HP: 10.0
+[00:27:35] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 4.9; DamageFactor: 4.9; Health: 67.27;  Old Health: 10.0; Default HP: 10.0
+[00:27:36] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 4.9; DamageFactor: 4.9; Health: 136.86;  Old Health: 20.0; Default HP: 20.0
+[00:27:36] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 4.9; DamageFactor: 4.9; Health: 83.11;  Old Health: 20.0; Default HP: 20.0
+[00:27:37] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 4.91; DamageFactor: 4.91; Health: 98.2;  Old Health: 20.0; Default HP: 20.0
+[00:27:37] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 4.9; DamageFactor: 4.9; Health: 105.26;  Old Health: 20.0; Default HP: 20.0
+[00:27:37] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 4.9; DamageFactor: 4.9; Health: 135.67;  Old Health: 20.0; Default HP: 20.0
+[00:27:37] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 4.9; DamageFactor: 4.9; Health: 98.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:37] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 4.9; DamageFactor: 4.9; Health: 98.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:39] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 5.0; DamageFactor: 5.0; Health: 76.22;  Old Health: 20.0; Default HP: 20.0
+[00:27:39] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 5.0; DamageFactor: 5.0; Health: 140.49;  Old Health: 40.0; Default HP: 40.0
+[00:27:39] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 5.0; DamageFactor: 5.0; Health: 200.0;  Old Health: 40.0; Default HP: 40.0
+[00:27:39] [Server thread/INFO]: [STDOUT]: minecraft:enderman; HealthFactor: 5.0; DamageFactor: 5.0; Health: 200.0;  Old Health: 40.0; Default HP: 40.0
+[00:27:39] [Server thread/INFO]: micha_a claimed a grave belonging to micha_a at 83, 51, 87, minecraft:overworld
+[00:27:40] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 37.51;  Old Health: 6.0; Default HP: 6.0
+[00:27:40] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 34.17;  Old Health: 6.0; Default HP: 6.0
+[00:27:40] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 30.0;  Old Health: 6.0; Default HP: 6.0
+[00:27:40] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 30.0;  Old Health: 6.0; Default HP: 6.0
+[00:27:41] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 5.0; DamageFactor: 5.0; Health: 123.29;  Old Health: 20.0; Default HP: 20.0
+[00:27:43] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 4.9; DamageFactor: 4.9; Health: 78.4;  Old Health: 16.0; Default HP: 16.0
+[00:27:43] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 4.9; DamageFactor: 4.9; Health: 98.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:43] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 4.9; DamageFactor: 4.9; Health: 98.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:45] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:45] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:45] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:45] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:45] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 5.0; DamageFactor: 5.0; Health: 133.92;  Old Health: 20.0; Default HP: 20.0
+[00:27:48] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:48] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 5.0; DamageFactor: 5.0; Health: 135.85;  Old Health: 20.0; Default HP: 20.0
+[00:27:48] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 5.0; DamageFactor: 5.0; Health: 135.45;  Old Health: 20.0; Default HP: 20.0
+[00:27:49] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 4.9; DamageFactor: 4.9; Health: 98.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:49] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 5.0; DamageFactor: 5.0; Health: 50.0;  Old Health: 10.0; Default HP: 10.0
+[00:27:49] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 5.0; DamageFactor: 5.0; Health: 49.81;  Old Health: 10.0; Default HP: 10.0
+[00:27:49] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 5.0; DamageFactor: 5.0; Health: 50.0;  Old Health: 10.0; Default HP: 10.0
+[00:27:49] [Server thread/INFO]: [STDOUT]: minecraft:glow_squid; HealthFactor: 5.0; DamageFactor: 5.0; Health: 50.0;  Old Health: 10.0; Default HP: 10.0
+[00:27:55] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 5.0; DamageFactor: 5.0; Health: 91.36;  Old Health: 16.0; Default HP: 16.0
+[00:27:55] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:27:56] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 4.9; DamageFactor: 4.9; Health: 112.7;  Old Health: 20.0; Default HP: 20.0
+[00:27:56] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 4.9; DamageFactor: 4.9; Health: 63.81;  Old Health: 10.0; Default HP: 10.0
+[00:27:56] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 4.9; DamageFactor: 4.9; Health: 49.0;  Old Health: 10.0; Default HP: 10.0
+[00:27:58] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 24.3;  Old Health: 6.0; Default HP: 6.0
+[00:28:00] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 34.3;  Old Health: 6.0; Default HP: 6.0
+[00:28:00] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 4.9; DamageFactor: 4.9; Health: 98.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:00] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 4.9; DamageFactor: 4.9; Health: 132.96;  Old Health: 20.0; Default HP: 20.0
+[00:28:00] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 4.9; DamageFactor: 4.9; Health: 98.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:03] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 5.0; DamageFactor: 5.0; Health: 118.48;  Old Health: 20.0; Default HP: 20.0
+[00:28:03] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:07] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 4.9; DamageFactor: 4.9; Health: 35.13;  Old Health: 6.0; Default HP: 6.0
+[00:28:07] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 20.72;  Old Health: 6.0; Default HP: 6.0
+[00:28:07] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 31.57;  Old Health: 6.0; Default HP: 6.0
+[00:28:08] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 4.9; DamageFactor: 4.9; Health: 98.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:08] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 4.9; DamageFactor: 4.9; Health: 67.59;  Old Health: 20.0; Default HP: 20.0
+[00:28:08] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 4.9; DamageFactor: 4.9; Health: 98.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:10] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 4.9; DamageFactor: 4.9; Health: 98.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:11] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 5.0; DamageFactor: 5.0; Health: 80.0;  Old Health: 16.0; Default HP: 16.0
+[00:28:11] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:12] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 5.0; DamageFactor: 5.0; Health: 60.0;  Old Health: 12.0; Default HP: 12.0
+[00:28:13] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:14] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:16] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 4.9; DamageFactor: 4.9; Health: 126.38;  Old Health: 20.0; Default HP: 20.0
+[00:28:16] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 4.9; DamageFactor: 4.9; Health: 98.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:16] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 4.9; DamageFactor: 4.9; Health: 98.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:16] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 4.9; DamageFactor: 4.9; Health: 33.67;  Old Health: 6.0; Default HP: 6.0
+[00:28:17] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 30.0;  Old Health: 6.0; Default HP: 6.0
+[00:28:18] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 5.0; DamageFactor: 5.0; Health: 80.0;  Old Health: 16.0; Default HP: 16.0
+[00:28:18] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:18] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 5.0; DamageFactor: 5.0; Health: 76.29;  Old Health: 20.0; Default HP: 20.0
+[00:28:19] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:19] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:20] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 40.05;  Old Health: 6.0; Default HP: 6.0
+[00:28:21] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 5.0; DamageFactor: 5.0; Health: 92.18;  Old Health: 20.0; Default HP: 20.0
+[00:28:23] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:23] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 5.0; DamageFactor: 5.0; Health: 100.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:24] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 4.9; DamageFactor: 4.9; Health: 29.400000000000002;  Old Health: 6.0; Default HP: 6.0
+[00:28:25] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 4.9; DamageFactor: 4.9; Health: 49.0;  Old Health: 10.0; Default HP: 10.0
+[00:28:25] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 4.9; DamageFactor: 4.9; Health: 57.4;  Old Health: 10.0; Default HP: 10.0
+[00:28:25] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 4.9; DamageFactor: 4.9; Health: 49.0;  Old Health: 10.0; Default HP: 10.0
+[00:28:25] [Server thread/INFO]: [STDOUT]: minecraft:squid; HealthFactor: 4.9; DamageFactor: 4.9; Health: 49.0;  Old Health: 10.0; Default HP: 10.0
+[00:28:27] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 5.0; DamageFactor: 5.0; Health: 122.04;  Old Health: 20.0; Default HP: 20.0
+[00:28:28] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 4.9; DamageFactor: 4.9; Health: 98.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:28] [Server thread/INFO]: [STDOUT]: minecraft:cave_spider; HealthFactor: 5.0; DamageFactor: 5.0; Health: 60.0;  Old Health: 12.0; Default HP: 12.0
+[00:28:28] [Server thread/INFO]: [STDOUT]: minecraft:spider; HealthFactor: 5.0; DamageFactor: 5.0; Health: 80.0;  Old Health: 16.0; Default HP: 16.0
+[00:28:28] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 32.77;  Old Health: 6.0; Default HP: 6.0
+[00:28:29] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 40.18;  Old Health: 6.0; Default HP: 6.0
+[00:28:29] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 39.9;  Old Health: 6.0; Default HP: 6.0
+[00:28:29] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 28.06;  Old Health: 6.0; Default HP: 6.0
+[00:28:29] [Server thread/INFO]: [STDOUT]: minecraft:bat; HealthFactor: 5.0; DamageFactor: 5.0; Health: 30.0;  Old Health: 6.0; Default HP: 6.0
+[00:28:29] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 4.91; DamageFactor: 4.91; Health: 98.2;  Old Health: 20.0; Default HP: 20.0
+[00:28:30] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 29.96;  Old Health: 16.0; Default HP: 16.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 36.44;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 54.78;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 47.82;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 52.08;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 39.46;  Old Health: 16.0; Default HP: 16.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 36.75;  Old Health: 16.0; Default HP: 16.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 42.57;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 19.22;  Old Health: 16.0; Default HP: 16.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:skeleton; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:wither_skeleton; HealthFactor: 2.0; DamageFactor: 2.0; Health: 26.36;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:wither_skeleton; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 24.16;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 33.25;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 41.16;  Old Health: 16.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.42;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 30.71;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 38.09;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 52.48;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 44.78;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 27.16;  Old Health: 16.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 24.11;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 39.76;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.08;  Old Health: 16.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 34.72;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 28.36;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 47.38;  Old Health: 20.0; Default HP: 20.0
+[00:28:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 44.95;  Old Health: 20.0; Default HP: 20.0
+[00:28:39] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:50] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 51.26;  Old Health: 20.0; Default HP: 20.0
+[00:28:52] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:52] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 26.54;  Old Health: 20.0; Default HP: 20.0
+[00:28:52] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:28:58] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 34.18;  Old Health: 20.0; Default HP: 20.0
+[00:29:05] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:29:05] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 55.62;  Old Health: 20.0; Default HP: 20.0
+[00:29:19] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 29.9;  Old Health: 20.0; Default HP: 20.0
+[00:29:26] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:29:29] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.39;  Old Health: 20.0; Default HP: 20.0
+[00:29:29] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:29:34] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 8.69;  Old Health: 4.0; Default HP: 20.0
+[00:29:34] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 8.0;  Old Health: 4.0; Default HP: 20.0
+[00:29:35] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 38.25;  Old Health: 16.0; Default HP: 20.0
+[00:29:37] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 34.81;  Old Health: 16.0; Default HP: 16.0
+[00:29:37] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:29:37] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 28.85;  Old Health: 16.0; Default HP: 16.0
+[00:29:37] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:29:46] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:29:46] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 8.0;  Old Health: 4.0; Default HP: 20.0
+[00:29:46] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:29:48] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 6.87;  Old Health: 4.0; Default HP: 20.0
+[00:29:49] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:29:49] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:29:49] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:29:49] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:29:52] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 54.1;  Old Health: 20.0; Default HP: 20.0
+[00:29:52] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:29:58] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:29:58] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:29:58] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:29:58] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:29:59] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:02] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 45.53;  Old Health: 20.0; Default HP: 20.0
+[00:30:05] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:06] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:08] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:08] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:09] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:30:09] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 44.79;  Old Health: 20.0; Default HP: 20.0
+[00:30:09] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:09] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:09] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:09] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 54.12;  Old Health: 20.0; Default HP: 20.0
+[00:30:10] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 46.54;  Old Health: 20.0; Default HP: 20.0
+[00:30:10] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 36.16;  Old Health: 20.0; Default HP: 20.0
+[00:30:10] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:10] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:13] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:14] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:15] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:21] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:23] [Server thread/INFO]: [STDOUT]: minecraft:ghast; HealthFactor: 2.0; DamageFactor: 2.0; Health: 60.0;  Old Health: 30.0; Default HP: 10.0
+[00:30:24] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 39.99;  Old Health: 20.0; Default HP: 20.0
+[00:30:24] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:26] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:30:26] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:28] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 47.5;  Old Health: 20.0; Default HP: 20.0
+[00:30:28] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:28] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 25.33;  Old Health: 20.0; Default HP: 20.0
+[00:30:28] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:29] [Server thread/INFO]: [STDOUT]: minecraft:horse; HealthFactor: 2.0; DamageFactor: 2.0; Health: 106.0;  Old Health: 53.0; Default HP: 53.0
+[00:30:29] [Server thread/INFO]: [STDOUT]: minecraft:husk; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:29] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:32] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:36] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:36] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:36] [Server thread/INFO]: [STDOUT]: minecraft:ghast; HealthFactor: 2.0; DamageFactor: 2.0; Health: 54.09;  Old Health: 30.0; Default HP: 10.0
+[00:30:40] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:41] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 1.26;  Old Health: 1.0; Default HP: 20.0
+[00:30:44] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 48.12;  Old Health: 20.0; Default HP: 20.0
+[00:30:44] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:44] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:47] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 55.07;  Old Health: 20.0; Default HP: 20.0
+[00:30:47] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:48] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[00:30:49] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[00:30:49] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[00:30:49] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[00:30:49] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[00:30:49] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 47.78;  Old Health: 20.0; Default HP: 20.0
+[00:30:50] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[00:30:50] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[00:30:50] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[00:30:50] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[00:30:50] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[00:30:52] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 38.61;  Old Health: 20.0; Default HP: 20.0
+[00:30:52] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:58] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 41.01;  Old Health: 20.0; Default HP: 20.0
+[00:30:58] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:30:58] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 38.5;  Old Health: 20.0; Default HP: 20.0
+[00:30:58] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:03] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:31:03] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:04] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.24;  Old Health: 16.0; Default HP: 20.0
+[00:31:05] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 54.62;  Old Health: 20.0; Default HP: 20.0
+[00:31:05] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 33.74;  Old Health: 20.0; Default HP: 20.0
+[00:31:05] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 41.33;  Old Health: 20.0; Default HP: 20.0
+[00:31:07] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:09] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:09] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:11] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[00:31:12] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[00:31:12] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[00:31:13] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:13] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:18] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 24.3;  Old Health: 20.0; Default HP: 20.0
+[00:31:18] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:18] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:18] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:19] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:19] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:23] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:23] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:23] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:26] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:27] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 7.97;  Old Health: 4.0; Default HP: 20.0
+[00:31:28] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 20.0
+[00:31:28] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:34] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:31:36] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:37] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 20.0
+[00:31:38] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 49.72;  Old Health: 20.0; Default HP: 20.0
+[00:31:38] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 53.74;  Old Health: 20.0; Default HP: 20.0
+[00:31:39] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 35.62;  Old Health: 20.0; Default HP: 20.0
+[00:31:40] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 52.0; Default HP: 20.0
+[00:31:40] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.73;  Old Health: 1.0; Default HP: 20.0
+[00:31:40] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:31:45] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:45] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.23;  Old Health: 20.0; Default HP: 20.0
+[00:31:45] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 45.11;  Old Health: 20.0; Default HP: 20.0
+[00:31:45] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:49] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:49] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:57] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 27.61;  Old Health: 20.0; Default HP: 20.0
+[00:31:58] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:58] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:58] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:58] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:31:58] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:07] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 28.91;  Old Health: 16.0; Default HP: 16.0
+[00:32:07] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:32:07] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:12] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:12] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:12] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:14] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:14] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 38.03;  Old Health: 20.0; Default HP: 20.0
+[00:32:16] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 20.0
+[00:32:17] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:32:17] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 9.72;  Old Health: 4.0; Default HP: 20.0
+[00:32:19] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:20] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:20] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 37.32;  Old Health: 20.0; Default HP: 20.0
+[00:32:20] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 47.41;  Old Health: 20.0; Default HP: 20.0
+[00:32:20] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:20] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 25.62;  Old Health: 20.0; Default HP: 20.0
+[00:32:24] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 42.78;  Old Health: 20.0; Default HP: 20.0
+[00:32:28] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 52.15;  Old Health: 20.0; Default HP: 20.0
+[00:32:28] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:29] [Server thread/INFO]: [STDOUT]: minecraft:creeper; HealthFactor: 2.0; DamageFactor: 2.0; Health: 49.55;  Old Health: 20.0; Default HP: 20.0
+[00:32:29] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 42.75;  Old Health: 20.0; Default HP: 20.0
+[00:32:31] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:32:31] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:32:31] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 21.72;  Old Health: 16.0; Default HP: 16.0
+[00:32:31] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:32:36] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:36] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:36] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 34.94;  Old Health: 20.0; Default HP: 20.0
+[00:32:36] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:41] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 53.48;  Old Health: 20.0; Default HP: 20.0
+[00:32:43] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:43] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:44] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:32:44] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 32.0;  Old Health: 16.0; Default HP: 16.0
+[00:32:51] [Server thread/INFO]: [STDOUT]: minecraft:hoglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 79.96;  Old Health: 40.0; Default HP: 40.0
+[00:32:51] [Server thread/INFO]: [STDOUT]: minecraft:piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 34.66;  Old Health: 16.0; Default HP: 16.0
+[00:32:51] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:53] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:53] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:53] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:32:53] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 36.1;  Old Health: 20.0; Default HP: 20.0
+[00:32:59] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 49.97;  Old Health: 20.0; Default HP: 20.0
+[00:33:04] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 37.5;  Old Health: 20.0; Default HP: 20.0
+[00:33:04] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:33:04] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:33:07] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 33.56;  Old Health: 20.0; Default HP: 20.0
+[00:33:08] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:33:09] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:33:12] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:33:13] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 39.95;  Old Health: 20.0; Default HP: 20.0
+[00:33:15] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 43.21;  Old Health: 16.0; Default HP: 20.0
+[00:33:16] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:33:19] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 50.67;  Old Health: 20.0; Default HP: 20.0
+[00:33:19] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 38.48;  Old Health: 20.0; Default HP: 20.0
+[00:33:20] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 44.14;  Old Health: 20.0; Default HP: 20.0
+[00:33:21] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:33:23] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 45.91;  Old Health: 20.0; Default HP: 20.0
+[00:33:23] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 49.15;  Old Health: 20.0; Default HP: 20.0
+[00:33:26] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 51.51;  Old Health: 20.0; Default HP: 20.0
+[00:33:26] [Server thread/INFO]: [STDOUT]: minecraft:blaze; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:33:29] [Server thread/INFO]: [STDOUT]: minecraft:zombie; HealthFactor: 2.0; DamageFactor: 2.0; Health: 47.12;  Old Health: 20.0; Default HP: 20.0
+[00:33:29] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:33:30] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 1.91;  Old Health: 1.0; Default HP: 20.0
+[00:33:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 45.93;  Old Health: 20.0; Default HP: 20.0
+[00:33:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:33:31] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 49.32;  Old Health: 20.0; Default HP: 20.0
+[00:33:35] [Server thread/INFO]: [STDOUT]: minecraft:magma_cube; HealthFactor: 2.0; DamageFactor: 2.0; Health: 2.0;  Old Health: 1.0; Default HP: 20.0
+[00:33:35] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 55.34;  Old Health: 20.0; Default HP: 20.0
+[00:33:35] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:33:35] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 31.5;  Old Health: 20.0; Default HP: 20.0
+[00:33:35] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
+[00:33:39] [Server thread/INFO]: [STDOUT]: minecraft:zombified_piglin; HealthFactor: 2.0; DamageFactor: 2.0; Health: 40.0;  Old Health: 20.0; Default HP: 20.0
