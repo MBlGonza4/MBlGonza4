@@ -4161,15 +4161,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-04 01:52:41 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-08-04 01:55:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
-      "has_cod": "2025-08-04 01:52:41 +0000"
+      "has_salmon": "2025-08-04 01:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-04 01:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-04 01:58:52 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/salmon_crate": {
+    "criteria": {
+      "has_salmon": "2025-08-04 01:58:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-04 01:58:52 +0000"
     },
     "done": true
   },
