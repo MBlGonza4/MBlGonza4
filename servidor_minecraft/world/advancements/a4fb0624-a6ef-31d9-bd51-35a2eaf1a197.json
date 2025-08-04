@@ -9535,5 +9535,11 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-08-04 01:49:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

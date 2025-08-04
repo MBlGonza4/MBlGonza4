@@ -5569,6 +5569,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2025-08-04 01:54:42 +0000",
       "minecraft:cow": "2025-07-02 04:40:26 +0000",
       "minecraft:chicken": "2025-07-06 03:58:38 +0000"
     },
@@ -11053,6 +11054,19 @@
       "has_brick": "2025-08-03 03:58:09 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-08-04 01:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2025-08-04 01:54:37 +0000",
+      "minecraft:british_shorthair": "2025-08-04 01:54:29 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
